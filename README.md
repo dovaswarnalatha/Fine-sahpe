@@ -11,12 +11,14 @@ This is a web based application developed for health related telugu based websit
  ✨*Project demovideo Link* https://github.com/dovaswarnalatha/Fine-sahpe/blob/main/Fine%20Shape%20a%20Sports%20Category%20Flat%20Bootstrap%20Responsive%20Web%20Template%20_%20Home%20__%20w3layouts%20-%20Google%20Chrome%202022-12-14%2023-38-55.mp4
  
 
-Azure technologies : Static web apps and  Azure health bot
+
 
 ## Features and Functionalities  ✨
 - ✨ Interactive and responsive UI.
 -  ✨Has many graphical and visual innovative effects.
 -  ✨Have an aesthetically pleasing visual design and architecture.
+-  ✨Helath Bot service.
+-  
 -  
 #### HOME 
 <img width="1078" alt="home" src="https://user-images.githubusercontent.com/117997135/204600200-b9c53720-fe3a-4dcb-9fcc-b053851d301c.png">

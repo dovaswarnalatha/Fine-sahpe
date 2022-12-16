@@ -25,7 +25,16 @@ Azure technologies : Static web apps and  Azure health bot
 <img width="1080" alt="calsses" src="https://user-images.githubusercontent.com/117997135/204600291-7f1ef615-42dd-40bc-abe7-aa32f2672234.png">
 <img width="1078" alt="gallery" src="https://user-images.githubusercontent.com/117997135/204600328-df90bbc3-1569-4bb9-aa72-554ad8fa3767.png">
 <img width="1079" alt="cantact" src="https://user-images.githubusercontent.com/117997135/204600338-315480fc-5ac9-456f-a6be-e48eb3ffbc27.png">
-<img width="1077" alt="bot2" src="https://user-images.githubusercontent.com/117997135/204600345-c539ae9b-abcc-4528-a8cd-b32840902801.png">
+## Bot service.
+
+
+<img width="1080" alt="sw1" src="https://user-images.githubusercontent.com/117997135/208033666-63365868-1126-425f-a352-bcd1d8ec8821.png">
+<img width="1078" alt="sw2" src="https://user-images.githubusercontent.com/117997135/208033693-a428795d-b259-4f83-9b4d-d5e36aa0ceb3.png">
+<img width="1076" alt="sw3" src="https://user-images.githubusercontent.com/117997135/208033711-1b4a42a0-b44b-4dd3-a680-d7194625b44c.png">
+
+<img width="1080" alt="sw4" src="https://user-images.githubusercontent.com/117997135/208033730-b5289311-6cdc-49df-a70b-3ee04b64b8ed.png">
+
+
 ## Azure resources
 
 <img width="928" alt="AZURE" src="https://user-images.githubusercontent.com/117997135/204600627-db6bd9e3-4bbe-4cee-a584-0a7064b43a3c.png">

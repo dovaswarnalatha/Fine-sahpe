@@ -7,8 +7,11 @@ This is a web based application developed for health related telugu based websit
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 ### azure sservices 1)static webapps 2)azure health bot.
 
- ✨*Project Link* - https://ambitious-stone-00860c610.2.azurestaticapps.net
- ✨*Project demovideo Link* https://github.com/dovaswarnalatha/Fine-sahpe/blob/main/Fine%20Shape%20a%20Sports%20Category%20Flat%20Bootstrap%20Responsive%20Web%20Template%20_%20Home%20__%20w3layouts%20-%20Google%20Chrome%202022-12-14%2023-38-55.mp4
+##  ✨*Project Link* - https://ambitious-stone-00860c610.2.azurestaticapps.net
+## ✨*Project demovideo Link*
+ https://github.com/dovaswarnalatha/Fine-sahpe/blob/main/Fine%20Shape%20a%20Sports%20Category%20Flat%20Bootstrap%20Responsive%20Web%20Template%20_%20Home%20__%20w3layouts%20-%20Google%20Chrome%202022-12-14%2023-38-55.mp4
+ ## health bot demo video:
+ https://github.com/dovaswarnalatha/Fine-sahpe/blob/main/Fine%20Shape%20a%20Sports%20Category%20Flat%20Bootstrap%20Responsive%20Web%20Template%20_%20Home%20__%20w3layouts%20-%20Google%20Chrome%202022-12-16%2011-41-49.mp4
  
 
 

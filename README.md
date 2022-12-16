@@ -21,8 +21,6 @@ This is a web based application developed for health related telugu based websit
 -  ✨Has many graphical and visual innovative effects.
 -  ✨Have an aesthetically pleasing visual design and architecture.
 -  ✨Helath Bot service.
--  
--  
 #### HOME 
 <img width="1078" alt="home" src="https://user-images.githubusercontent.com/117997135/204600200-b9c53720-fe3a-4dcb-9fcc-b053851d301c.png">
 <img width="1079" alt="about" src="https://user-images.githubusercontent.com/117997135/204600257-399dbd9f-f0b3-4014-9a15-29f3301f54b5.png">

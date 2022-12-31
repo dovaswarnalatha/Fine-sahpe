@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fineshape'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26502835C02C408FB8C1DAD65D65F4F0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_511BD038EF7046E783FABD5DC1F8A1F1 }}
           package: .

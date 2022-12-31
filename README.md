@@ -17,7 +17,7 @@ Problem Statement/Opportunity : Good  lifestyle Is needed for evrey person.
 
 Project Description           :  Better lifestyle  Will give the better health Results.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot and app services.
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot and App Service.
 
 Static Web App URL : https://ambitious-stone-00860c610.2.azurestaticapps.net
 
